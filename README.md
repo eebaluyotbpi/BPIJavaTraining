@@ -1,3 +1,0 @@
-"# BPIJavaTraining" 
-
-"# Training Repository"
